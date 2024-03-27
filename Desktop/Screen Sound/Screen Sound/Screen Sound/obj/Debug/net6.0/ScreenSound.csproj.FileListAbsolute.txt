@@ -1,0 +1,14 @@
+C:\Users\ana.gaspar\Desktop\Screen Sound\Desktop\Screen Sound\Screen Sound\Screen Sound\obj\Debug\net6.0\ScreenSound.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ana.gaspar\Desktop\Screen Sound\Desktop\Screen Sound\Screen Sound\Screen Sound\obj\Debug\net6.0\ScreenSound.AssemblyInfoInputs.cache
+C:\Users\ana.gaspar\Desktop\Screen Sound\Desktop\Screen Sound\Screen Sound\Screen Sound\obj\Debug\net6.0\ScreenSound.AssemblyInfo.cs
+C:\Users\ana.gaspar\Desktop\Screen Sound\Desktop\Screen Sound\Screen Sound\Screen Sound\obj\Debug\net6.0\ScreenSound.csproj.CoreCompileInputs.cache
+C:\Users\ana.gaspar\Desktop\Screen Sound\Desktop\Screen Sound\Screen Sound\Screen Sound\bin\Debug\net6.0\ScreenSound.exe
+C:\Users\ana.gaspar\Desktop\Screen Sound\Desktop\Screen Sound\Screen Sound\Screen Sound\bin\Debug\net6.0\ScreenSound.deps.json
+C:\Users\ana.gaspar\Desktop\Screen Sound\Desktop\Screen Sound\Screen Sound\Screen Sound\bin\Debug\net6.0\ScreenSound.runtimeconfig.json
+C:\Users\ana.gaspar\Desktop\Screen Sound\Desktop\Screen Sound\Screen Sound\Screen Sound\bin\Debug\net6.0\ScreenSound.dll
+C:\Users\ana.gaspar\Desktop\Screen Sound\Desktop\Screen Sound\Screen Sound\Screen Sound\bin\Debug\net6.0\ScreenSound.pdb
+C:\Users\ana.gaspar\Desktop\Screen Sound\Desktop\Screen Sound\Screen Sound\Screen Sound\obj\Debug\net6.0\ScreenSound.dll
+C:\Users\ana.gaspar\Desktop\Screen Sound\Desktop\Screen Sound\Screen Sound\Screen Sound\obj\Debug\net6.0\refint\ScreenSound.dll
+C:\Users\ana.gaspar\Desktop\Screen Sound\Desktop\Screen Sound\Screen Sound\Screen Sound\obj\Debug\net6.0\ScreenSound.pdb
+C:\Users\ana.gaspar\Desktop\Screen Sound\Desktop\Screen Sound\Screen Sound\Screen Sound\obj\Debug\net6.0\ScreenSound.genruntimeconfig.cache
+C:\Users\ana.gaspar\Desktop\Screen Sound\Desktop\Screen Sound\Screen Sound\Screen Sound\obj\Debug\net6.0\ref\ScreenSound.dll
