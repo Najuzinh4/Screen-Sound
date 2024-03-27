@@ -1,4 +1,4 @@
-Screen Sound 
+Screen Sound
 Bem-vindo ao "Screen Sound", a evolução do nosso projeto anterior "Screen Sound 2". Este é o terceiro curso da série Alura, aprofundando ainda mais no desenvolvimento em C# e na construção de uma aplicação inspirada em serviços de streaming de música como o Spotify.
 
 Visão Geral
@@ -14,3 +14,4 @@ Certifique-se de ter o ambiente de desenvolvimento para C# configurado em sua m�
 Clone este repositório para o seu ambiente local.
 Abra o projeto em sua IDE preferida, como o Visual Studio.
 Compile e execute o programa principal, Program.cs.
+Certifique-se de que você tem o ambiente de desenvolvimento adequado configurado para C# e .NET, bem como um conhecimento básico sobre como utilizar uma IDE de desenvolvimento.
