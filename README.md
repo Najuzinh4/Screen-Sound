@@ -1,17 +1,24 @@
-Screen Sound
-Bem-vindo ao "Screen Sound", a evolução do nosso projeto anterior "Screen Sound 2". Este é o terceiro curso da série Alura, aprofundando ainda mais no desenvolvimento em C# e na construção de uma aplicação inspirada em serviços de streaming de música como o Spotify.
+**Screen Sound**
 
-Visão Geral
-"Screen Sound" é uma aplicação de música projetada para fornecer uma experiência de audição imersiva e personalizada para os usuários. Desenvolvido com C# e conceitos avançados de programação orientada a objetos, o projeto é uma continuação natural do nosso primeiro curso.
+Bem-vindo ao "Screen Sound"!
 
-Novidades e Melhorias
-Arquitetura Orientada a Objetos: Implementamos uma arquitetura robusta e orientada a objetos para simplificar a manutenção e expansão do código.
+Este é o terceiro curso da série Alura, focado em desenvolvimento avançado em C# e na construção de uma aplicação inspirada em serviços de streaming de música como o Spotify.
 
-Gerenciamento de Classes e Métodos: Introduzimos classes e métodos especializados para lidar com diferentes aspectos da aplicação, resultando em um código mais estruturado e eficiente.
+**Visão Geral**
 
-Como Executar
-Certifique-se de ter o ambiente de desenvolvimento para C# configurado em sua máquina.
-Clone este repositório para o seu ambiente local.
-Abra o projeto em sua IDE preferida, como o Visual Studio.
-Compile e execute o programa principal, Program.cs.
-Certifique-se de que você tem o ambiente de desenvolvimento adequado configurado para C# e .NET, bem como um conhecimento básico sobre como utilizar uma IDE de desenvolvimento.
+"Screen Sound" é uma aplicação de música projetada para proporcionar uma experiência de audição imersiva e personalizada aos usuários. Desenvolvido com C# e baseado em conceitos avançados de programação orientada a objetos, o projeto representa uma evolução em relação ao nosso trabalho anterior, "Screen Sound 2".
+
+**Novidades e Melhorias**
+
+- **Arquitetura Orientada a Objetos:** Implementamos uma arquitetura robusta e orientada a objetos, facilitando a manutenção e expansão do código.
+
+- **Gerenciamento de Classes e Métodos:** Introduzimos classes e métodos especializados para lidar com diferentes aspectos da aplicação, resultando em um código mais estruturado e eficiente.
+
+**Como Executar**
+
+1. Certifique-se de ter o ambiente de desenvolvimento para C# configurado em sua máquina.
+2. Clone este repositório para o seu ambiente local.
+3. Abra o projeto em sua IDE preferida, como o Visual Studio.
+4. Compile e execute o programa principal, `Program.cs`.
+
+Certifique-se de ter o ambiente de desenvolvimento adequado configurado para
