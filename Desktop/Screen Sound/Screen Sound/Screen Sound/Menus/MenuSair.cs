@@ -1,8 +1,10 @@
-﻿namespace Screen_Sound.Menus
+﻿using Screen_Sound.Models;
+
+namespace Screen_Sound.Menus
 {
     internal class MenuSair : Menu
     {
-        public void Executar(Dictionary<string, Banda> bandasRegistradas)
+        public override void Executar(Dictionary<string, Banda> bandasRegistradas)
         {
             Console.WriteLine("Tchau Tchau  ;)");
         }

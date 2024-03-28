@@ -4,14 +4,9 @@ namespace Screen_Sound.Menus;
 
 internal class MenuMostrarBandas : Menu
 {
-    internal void Executar(Dictionary<string, Banda> bandasRegistradas)
+    public override void Executar(Dictionary<string, Banda> bandasRegistradas)
     {
-        throw new NotImplementedException();
-    }
-
-    void MostrarBandasRegistradas()
-    {
-        Console.Clear();
+        base.Executar(bandasRegistradas);
         ExibirTituloDaOpcao("Exibindo todas as bandas registradas");
 
         foreach (string banda in bandasRegistradas.Keys)
@@ -21,6 +16,6 @@ internal class MenuMostrarBandas : Menu
         Console.WriteLine("\nDigite uma tecla para voltar ao menu principal");
         Console.ReadKey();
         Console.Clear();
-
     }
+
 }
