@@ -23,7 +23,8 @@ internal class Program
         opcoes.Add(2, new MenuRegistrarAlbum());
         opcoes.Add(3, new MenuMostrarBandas());
         opcoes.Add(4, new MenuAvaliarBanda());
-        opcoes.Add(5, new MenuExibirDetalhes());
+        opcoes.Add(5, new MenuAvaliarAlbum());
+        opcoes.Add(6, new MenuExibirDetalhes());
         opcoes.Add(-1, new MenuSair());
 
 

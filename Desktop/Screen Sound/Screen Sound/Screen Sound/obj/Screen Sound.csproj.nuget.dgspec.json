@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ana.gaspar\\Desktop\\Screen Sound\\Desktop\\Screen Sound\\Screen Sound\\Screen Sound\\Screen Sound.csproj": {}
+    "C:\\Users\\ana.gaspar\\OneDrive - GAMA - SOLUCOES EM TECNOLOGIA LTDA\\Área de Trabalho\\Screen Sound\\Desktop\\Screen Sound\\Screen Sound\\Screen Sound\\Screen Sound.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ana.gaspar\\Desktop\\Screen Sound\\Desktop\\Screen Sound\\Screen Sound\\Screen Sound\\Screen Sound.csproj": {
+    "C:\\Users\\ana.gaspar\\OneDrive - GAMA - SOLUCOES EM TECNOLOGIA LTDA\\Área de Trabalho\\Screen Sound\\Desktop\\Screen Sound\\Screen Sound\\Screen Sound\\Screen Sound.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ana.gaspar\\Desktop\\Screen Sound\\Desktop\\Screen Sound\\Screen Sound\\Screen Sound\\Screen Sound.csproj",
+        "projectUniqueName": "C:\\Users\\ana.gaspar\\OneDrive - GAMA - SOLUCOES EM TECNOLOGIA LTDA\\Área de Trabalho\\Screen Sound\\Desktop\\Screen Sound\\Screen Sound\\Screen Sound\\Screen Sound.csproj",
         "projectName": "Screen Sound",
-        "projectPath": "C:\\Users\\ana.gaspar\\Desktop\\Screen Sound\\Desktop\\Screen Sound\\Screen Sound\\Screen Sound\\Screen Sound.csproj",
+        "projectPath": "C:\\Users\\ana.gaspar\\OneDrive - GAMA - SOLUCOES EM TECNOLOGIA LTDA\\Área de Trabalho\\Screen Sound\\Desktop\\Screen Sound\\Screen Sound\\Screen Sound\\Screen Sound.csproj",
         "packagesPath": "C:\\Users\\ana.gaspar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ana.gaspar\\Desktop\\Screen Sound\\Desktop\\Screen Sound\\Screen Sound\\Screen Sound\\obj\\",
+        "outputPath": "C:\\Users\\ana.gaspar\\OneDrive - GAMA - SOLUCOES EM TECNOLOGIA LTDA\\Área de Trabalho\\Screen Sound\\Desktop\\Screen Sound\\Screen Sound\\Screen Sound\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
