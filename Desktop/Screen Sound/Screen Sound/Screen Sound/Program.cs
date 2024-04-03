@@ -6,17 +6,18 @@ internal class Program
 {
     private static void Main(string[] args)
     {
-        Banda ira = new Banda("Ira!");
-        ira.AdicionarNota(new Avaliacao(10));
-        ira.AdicionarNota(new Avaliacao(8));
-        ira.AdicionarNota(new Avaliacao(6));
-        Banda Beatles = new Banda("The beatles");
+        Banda thengbhd = new Banda("The neighbourhood");
+        thengbhd.AdicionarNota(new Avaliacao(10));
+        thengbhd.AdicionarNota(new Avaliacao(8));
+        thengbhd.AdicionarNota(new Avaliacao(6));
+
+        Banda Ptv = new Banda("Pierce The Veil");
 
         string mensagemDeBoasVindas = "Boas vindas ao Screen Sound";
 
         Dictionary<string, Banda> bandasRegistradas = new();
-        bandasRegistradas.Add(ira.Nome, ira);
-        bandasRegistradas.Add(Beatles.Nome, Beatles);
+        bandasRegistradas.Add(thengbhd.Nome, thengbhd);
+        bandasRegistradas.Add(Ptv.Nome, Ptv);
 
         Dictionary<int, Menu> opcoes = new();
         opcoes.Add(1, new MenuRegistrarBanda());
@@ -46,11 +47,12 @@ internal class Program
         void ExibirOpcoesDoMenu()
         {
             ExibirLogo();
-            Console.WriteLine("Digite 1 para registrar uma banda");
-            Console.WriteLine("Digite 2 para mostrar todas as bandas");
-            Console.WriteLine("Digite 3 para avaliar uma banda");
-            Console.WriteLine("Digite 4 para exibir a media de uma banda");
-            Console.WriteLine("Digite 5 para exibir os detalhes de uma banda");
+            Console.WriteLine("\nDigite 1 para registrar uma banda");
+            Console.WriteLine("Digite 2 para registrar  o album de uma banda");
+            Console.WriteLine("Digite 3 para mostrar todas as bandas");
+            Console.WriteLine("Digite 4 para avaliar uma banda");
+            Console.WriteLine("Digite 5 para avaliar um álbum");
+            Console.WriteLine("Digite 6 para exibir os detalhes de uma banda");
             Console.WriteLine("Digite -1 para sair");
 
             Console.Write("\nDigite a sua opção: ");
