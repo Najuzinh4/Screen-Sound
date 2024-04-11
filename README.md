@@ -21,4 +21,3 @@ Este é o terceiro curso da série Alura, focado em desenvolvimento avançado em
 3. Abra o projeto em sua IDE preferida, como o Visual Studio.
 4. Compile e execute o programa principal, `Program.cs`.
 
-Certifique-se de ter o ambiente de desenvolvimento adequado configurado para
